@@ -1,0 +1,24 @@
+# Ignore Gradle and Maven build directories
+/build/
+/.gradle/
+/maven/
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore VS Code configuration files
+.vscode/
+
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore system-specific files
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
